@@ -1,1 +1,2 @@
 # prophet-challenge
+As a growth analyst at Mercado Libre, you are tasked with analyzing financial and user data to drive company growth. This assignment goal is to determine if predicting search traffic can aid in successful stock trading. The challenge involves four steps: identifying unusual patterns in hourly Google search traffic, analyzing the data for seasonality, relating search traffic to stock price patterns, and creating a time series model using Prophet.
